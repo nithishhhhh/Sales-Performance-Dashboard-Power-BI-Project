@@ -34,15 +34,14 @@ Global Superstore dataset containing:
 
 ---
 ## Dashboard Preview
-[dashboard-overview](<img width="1289" height="708" alt="dashboard-overview" src="https://github.com/user-attachments/assets/dc20b3f0-8735-40fa-a5b6-d42f2fa31463" />)
-[product-performance-analysis](
-<img width="1313" height="732" alt="product-performance-analysis" src="https://github.com/user-attachments/assets/cdf4b2ca-a6ba-4452-adeb-17927b5ed3c9" />)
-[regional-sales-analysis](<img width="1310" height="736" alt="regional-sales-analysis" src="https://github.com/user-attachments/assets/72b93bb5-933e-4e62-81fb-5589a7c1b88e" />)
-[global-sales-map](<img width="1282" height="731" alt="global-sales-map" src="https://github.com/user-attachments/assets/63290e39-258e-4d9a-ae82-56be2ee00dda" />)
-[customer-segment-analysi](<img width="1295" height="726" alt="customer-segment-analysis" src="https://github.com/user-attachments/assets/d0cc95d9-692a-43a7-94f4-18b9a43af1c2" />)
-[data-model-schema](<img width="1590" height="730" alt="data-model-schema" src="https://github.com/user-attachments/assets/bcb6203b-766e-4ba4-a0f9-04e879ff6a31" />)
-[power-query-data-cleaning](<img width="1919" height="1018" alt="power-query-data-cleaning" src="https://github.com/user-attachments/assets/cdde6d5f-5297-44ff-ae59-ce9e3140693c" />)
-
+dashboard-overview.png
+product-performance-analysis.png
+regional-sales-analysis.png 
+global-sales-map.png
+customer-segment-analysis.png
+data-model-schema.png
+power-query-data-cleaning.png
+ 
 ---
 
 ## Data Modeling
