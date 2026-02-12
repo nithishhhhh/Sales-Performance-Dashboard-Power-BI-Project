@@ -34,7 +34,7 @@ Global Superstore dataset containing:
 
 ---
 ## Dashboard Preview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](https://github.com/nithishhhhh/Sales-Performance-Dashboard-Power-BI-Project/blob/main/dashboard-overview.png)
  
 ---
 
