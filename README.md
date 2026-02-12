@@ -34,13 +34,7 @@ Global Superstore dataset containing:
 
 ---
 ## Dashboard Preview
-dashboard-overview.png
-product-performance-analysis.png
-regional-sales-analysis.png 
-global-sales-map.png
-customer-segment-analysis.png
-data-model-schema.png
-power-query-data-cleaning.png
+![Dashboard](images/dashboard-overview.png)
  
 ---
 
@@ -85,7 +79,7 @@ Dimension Tables:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Consumer segment contributes highest revenue
 * Some high-discount products reduce profit
